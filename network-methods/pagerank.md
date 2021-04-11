@@ -17,7 +17,7 @@ Conceptualizing the web this way is similar to how some popular search engines v
 
 ### What does the graph of the web look like
 
-In the year 2000, the founders of AltaVista ran [an experiment](https://www.sciencedirect.com/science/article/abs/pii/S1389128600000839) to explore what the Web looked like. They asked the question: given a node $v$: what are the nodes $v$ can reach? What other nodes can reach $v$?
+In the year 2000, the founders of AltaVista ran [an experiment](https://www.sciencedirect.com/science/article/abs/pii/S1389128600000839) to explore what the Web looked like. They asked the question: given a node $[v]$: what are the nodes $v$ can reach? What other nodes can reach $v$?
 
 This produced two sets of nodes:
 
