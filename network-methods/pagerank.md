@@ -3,8 +3,7 @@ layout: post
 title: PageRank
 ---
 
-$$x=\sqrt{2}$$
-
+$`\sqrt{2}`$
 
 In this section, we study PageRank which is a method for ranking webpages by importance using link structure in the web graph. This is a commonly used [algorithm](http://ilpubs.stanford.edu:8090/422/) for web search popularized by Google. Before discussing PageRank, let us first conceptualize the web as a graph and attempt to study its structure using the language of graph theory.
 
